@@ -1,0 +1,66 @@
+Q1. Create a counter application with the following features:
+1. increment button
+2. decrement button
+3. reset button.
+Display the updated count on the screen
+
+Q2. Create a React appplication with the following pages
+1. Home
+2.About
+3. Contact
+Implement Routing using react router so that navigation between pages works without reloading the pages.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+export default Counter;
+
+Home
+
+import React from "react";
+
+function Home() {
+  return <h2>Welcome to Home Page</h2>;
+}
+
+export default Home;
+
